@@ -7,6 +7,4 @@ public interface DataDiri {
     String getAgama();
     void setJenisKelamin(String jenisKelamin);
     String getJenisKelamin();
-    void setAlamat(String alamat);
-    String getAlamat();
 }
