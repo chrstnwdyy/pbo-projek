@@ -4,7 +4,6 @@ public interface DataDiri {
     void setTanggalLahir(String tgl);
     String getTanggalLahir();
     void setAgama(String agama);
-    String getAgama();
-    void setJenisKelamin(String jenisKelamin);
+
 
 }
